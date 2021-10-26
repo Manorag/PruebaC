@@ -2,9 +2,10 @@
 #include<stdio.h>
 
 void main(){
-	crlscr();
+	clrscr();
 	pritnf("\tHola mundo\n");
-	pritnf("\tPrueba");
+	pritnf("\tPrueba\n");
+	printf("\tMel heterosexual");
 	
 	getch();
 }
