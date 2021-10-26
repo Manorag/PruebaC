@@ -9,6 +9,7 @@ void main(){
 	pritnf("\tPrueba\n");
 	printf("\tMel heterosexual");
 	printf("\nPoq guishe es tan homosexual?");
+	printf("\nGuishe se la come");
 	
 	getch();
 }
